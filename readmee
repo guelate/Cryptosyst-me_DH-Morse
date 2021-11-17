@@ -1,0 +1,10 @@
+Ouvrir 2 terminals
+
+sur le premier : python server.py
+sur le deuxième : python client.py
+
+entrer la clé générer dans le fichier : fichier.clé (pour la connexion server)
+
+entrer la méssage crypté générer dans fichier : fichier.enc (pour l'encodage / décodage)
+
+Comme sur la démo .
