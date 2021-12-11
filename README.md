@@ -2,5 +2,5 @@
 
 __Cryptosyst-me_DH-Morse__
 
-Cryptosystème Morse , basé sur l'échange de clé Deffie-Hellman dans une connexion réseau.
+Cryptosystème Morse, basé sur l'échange de clés Deffie-Hellman dans une connexion réseau.
 
